@@ -120,10 +120,3 @@ education:
       details: |
         [ESCREVA AQUI ALGUM DETALHE SOBRE O CURSO, SE QUISER.
         - Ex: Projecto de conclusão de curso focado em...]
-
-#
-# Rodapé
-#
-footer:
-  title: 'Contacte-me'
-  # O email e redes sociais já vêm das secções anteriores
